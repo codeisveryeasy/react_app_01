@@ -15,6 +15,7 @@ function MyRootComponent() {
             </div>
             
             <VideoContainer></VideoContainer>
+            
         </div>
      );
 }
